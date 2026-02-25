@@ -1,6 +1,6 @@
 {
   "apiVersion": 1,
-  "id": "abtestx",
+  "id": "abtest1",
   "name": "A/B Testing",
   "description": "Split test and optimize your Framer pages with statistical analysis",
   "icon": "split",
