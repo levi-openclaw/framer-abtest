@@ -3,10 +3,15 @@
   "id": "abtest",
   "name": "A/B Testing",
   "description": "Split test and optimize your Framer pages with statistical analysis",
-  "icon": "split",
-  "categories": ["analytics", "developer-tools"],
+  "modes": [
+    "canvas"
+  ],
+  "icon": "/icon.svg",
+  "categories": [
+    "analytics",
+    "developer-tools"
+  ],
   "version": "0.1.0",
-  "mode": "canvas",
   "author": {
     "name": "Levi Tijerina",
     "email": "levi@example.com"
